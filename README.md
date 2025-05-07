@@ -4,7 +4,7 @@
 This project focuses on real-world data cleaning using Python and Pandas. The dataset used contains patient records related to heart disease.
 
 ## 📌 Dataset Info
-- **Source**: [Heart Disease UCI - Kaggle](https://www.kaggle.com/datasets/ronitf/heart-disease-uci)
+- **Source**: [Heart Disease UCI - Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 - **Rows**: 918
 - **Columns**: 12  
 - **Format**: CSV
